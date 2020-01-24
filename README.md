@@ -1,10 +1,10 @@
-# section4_app
+# Personal Expenenses App 
 
-A new Flutter project.
+A mediocore Flutter App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a can be run after reading the following 
 
 A few resources to get you started if this is your first Flutter project:
 
