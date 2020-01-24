@@ -35,6 +35,9 @@ class Budget extends StatelessWidget {
                   "Monthly Budget",
                   style: Theme.of(context).textTheme.title,
                 )),
+                SizedBox(
+                  height: constraints.maxHeight * 0.05,
+                ),
                 Row(
                   children: <Widget>[
                     Container(
